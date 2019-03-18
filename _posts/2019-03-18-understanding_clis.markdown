@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding CLI's"
-date:       2019-03-18 05:09:41 +0000
+date:       2019-03-18 01:09:42 -0400
 permalink:  understanding_clis
 ---
 
