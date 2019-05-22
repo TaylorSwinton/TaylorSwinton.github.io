@@ -1,0 +1,18 @@
+---
+layout: post
+title:      "Creating CORE"
+date:       2019-05-22 01:16:33 +0000
+permalink:  creating_core
+---
+
+
+For my Rails application I decided to build an app for people who would like to build courses pertaining to the mind, body, and soul. Mental health is an important thing to me and what better way to show it than building an application around it. This project was more challenging than the last two because of how I originally went about building it. Although, challenging I learned some very valuable lessons that I can take with me for my future project builds. Below are some "gems" that I wish I had followed before building CORE
+
+### 1. Plan , Plan, Plan
+Building something from scratch excites and scares me, it can go perfectly or you can be stuck just looking at a blank screen. The latter pertained to me exactly. I spent an entire day mapping out how this project should work, writing the minimum in order to run that lovely `rails new core` line in my terminal. If you hadn't already guessed, let me tell you how bad I failed. I was stuck because I didn't thourouly think about the associations needed in  order for a User to create a Course and Steps when steps was the class that belongs to the other classes. It's easy to say that I was very confused and left stumped, somehow I started an app with associations that wouldn't fit the requirements given. My take away is, just because we work with computers doesn't mean you only have to use them. The second day I scraped everything and started off with a blank notes file and piece of paper. I wrote my diagram on paper in order to clearly map out the associations needed. The blank notes file contained the mock associations and listed what purpose and actions each class had.
+
+### 2. Know your reserved words
+If it sounds like an action word, assume it's an action word, research it then move on. I'd gotten my project pretty much done because I got to a pretty important problem, suddenly I couldn't create steps. This was pretty major considering it was one of only three classes that I would be using for my application. I sat there for a day stumped, looking for answers online, and rearranging code. By this time, i'm two days wasted and getting nervous. My search engine was worn out from the amount of times I'd typed `"Undefined method Action for Action Controller"` looking for some holy grail answer. Did you catch what I'd named my model? It was action, somehow i'd choosen a word reserve word for one the most imporant parts of my project. For a day, Rails was writing over my code in my action controller to do what it needed in order to run. In short, I spent an entire day writing over every action I tried to make simply by pushing the submit button. Next time I won't choose a word that honestly sounded like it would be apart of rails in the first place, and do a little research about the names I choose.
+ 
+ ### 3. Ask for help
+ The previous problem bring me to my last point, ask for help. There's nothing wrong with a little help, the things you know someone else surely knows. I could have solved both of these problems pretty quickly had I used the great resources that is colloboration and honesty. In both situations my cohort leader worked with me to figure out the problem and both took less than thirty minutes to solve. Thirty minutes versus a day sounds like a much better deal to me. When looking at the big picture, there's no way humanly possible i'll know or remember everything and that's ok. I choose a career where i'll get to learn my entire life. With that choice comes challenges, but the benifit of conquering them is the best part.
