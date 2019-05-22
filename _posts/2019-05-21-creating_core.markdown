@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creating CORE"
-date:       2019-05-22 01:16:33 +0000
+date:       2019-05-21 21:16:34 -0400
 permalink:  creating_core
 ---
 
