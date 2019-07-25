@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Json Data For Next/Prev Buttons "
-date:       2019-07-25 17:48:03 +0000
+date:       2019-07-25 13:48:03 -0400
 permalink:  using_json_data_for_next_prev_buttons
 ---
 
